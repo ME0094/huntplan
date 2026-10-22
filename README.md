@@ -1,6 +1,7 @@
-> **Moved to [cti-suite](https://github.com/ME0094/cti-suite).** This package now lives in
-> `packages/huntplan/` of that repository, with the same command and the same version. This repository is
-> archived and read-only; its history stays here.
+> **Archived, and kept public as a snapshot.** The maintained version lives in a private suite
+> (package `huntplan`), with the same command and the same behaviour. The link cannot be public
+> because the suite is private, which is why this repository stays readable instead of pointing to
+> a 404. Read-only: what you see here is the last public state.
 
 # HuntPlan
 
