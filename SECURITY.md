@@ -1,17 +1,17 @@
-# Seguridad
+# Security
 
-## Como reportar
+## Reporting
 
-Aviso privado en <https://github.com/ME0094/huntplan/security/advisories/new>. No abras un issue
-publico con un fallo sin corregir.
+Open a private advisory at <https://github.com/ME0094/huntplan/security/advisories/new>. Please do not
+open a public issue for an unfixed flaw.
 
-## Alcance
+## Scope
 
-Convierte una pregunta en un plan de caza y lo valida. No hace peticiones de red ni consume el
-fichero de otra forma que leyendolo. Interesan: entradas que agotan la memoria y cualquier ruta
-por la que un plan se diera por valido sin serlo.
+The tool turns a question into a threat-hunting plan and validates it. It makes no network calls and
+does nothing with the file beyond reading it. What matters: inputs that exhaust memory, and any path
+by which a plan is reported as valid when it is not.
 
-## Que no es
+## Out of scope
 
-El contenido de un plan no es responsabilidad de la herramienta: mide falsabilidad, fuentes de
-datos, criterio de cierre y madurez, no si la caza merece la pena.
+Whether a plan is worth hunting is not the tool's call: it measures falsifiability, data sources,
+closure criteria and maturity, not the analyst's judgement.
