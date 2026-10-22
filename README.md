@@ -1,3 +1,7 @@
+> **Moved to [cti-suite](https://github.com/ME0094/cti-suite).** This package now lives in
+> `packages/huntplan/` of that repository, with the same command and the same version. This repository is
+> archived and read-only; its history stays here.
+
 # HuntPlan
 
 **Turn a question into a falsifiable threat-hunting plan.**
